@@ -1,0 +1,41 @@
+
+uiSkin.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+button
+  rotate: false
+  xy: 304, 422
+  size: 249, 80
+  orig: 249, 80
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 304, 340
+  size: 249, 80
+  orig: 249, 80
+  offset: 0, 0
+  index: -1
+check-off
+  rotate: false
+  xy: 555, 434
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+check-on
+  rotate: false
+  xy: 304, 270
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 2, 2
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: -1
